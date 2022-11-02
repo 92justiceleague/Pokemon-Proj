@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #b388af;
+    background: -webkit-linear-gradient(to right, #b86cbe, #b388af);
+    background: linear-gradient(to right, #b86cbe, #b388af);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'DynaPuff';
+    margin: 0;
+}
+
+h1 {
+    letter-spacing: 3px;
+}
